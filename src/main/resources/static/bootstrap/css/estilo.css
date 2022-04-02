@@ -1,0 +1,48 @@
+body{
+	background-image: linear-gradient(#fdbe34, #10136b);
+}
+
+nav{
+	background-color: #10136b;
+	color:#ffff;
+}
+.container{
+	margin-top:150px;
+	background-color: #10136b;
+	color:white;
+}
+.card {
+		color:white;
+		background-color: #10136b;
+
+}
+img{
+	border-radius:10px;
+	width:75px;
+	height:75px;
+}
+a {
+	color: #ffff;
+	text-decoration: none;
+	background-color: transparent;
+	-webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+	color: #fdbe34;
+	text-decoration: underline;
+}
+
+.footer-copyright{
+	
+	background-color: #10136b;
+	color:white;
+}
+
+.produto1, .produto2, .produto3{
+	margin-right:auto;
+	margin-left:8%;
+	width: 25%;
+	height: 25%;
+	
+}
